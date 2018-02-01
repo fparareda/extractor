@@ -1,0 +1,5 @@
+{
+    "require": {
+        "tetreum/xupopter": "dev-master"
+    }
+}

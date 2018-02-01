@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="734b42cb-d776-48a1-a3fa-f40ca04cc814" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/conf.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/.scrutinizer.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/CREDITS" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/RELEASE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/UPGRADING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/bin/entities.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/example.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/phpunit.xml.dist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/sami.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Elements.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Entities.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Exception.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/InstructionProcessor.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Parser/CharacterReference.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Parser/EventHandler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Parser/InputStream.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Parser/ParseError.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Parser/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Parser/Scanner.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Parser/Tokenizer.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Parser/TreeBuildingRules.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Parser/UTF8Utils.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Serializer/HTML5Entities.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Serializer/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Serializer/RulesInterface.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/src/HTML5/Serializer/Traverser.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/ElementsTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Html5Test.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Html5Test.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Parser/CharacterReferenceTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Parser/DOMTreeBuilderTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Parser/EventStack.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Parser/EventStackError.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Parser/FileInputStreamTest.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Parser/FileInputStreamTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Parser/InstructionProcessorMock.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Parser/ScannerTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Parser/StringInputStreamTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Parser/TokenizerTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Parser/TreeBuildingRulesTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Parser/UTF8UtilsTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Serializer/OutputRulesTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/Serializer/TraverserTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/HTML5/TestCase.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/benchmark/example.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/masterminds/html5/test/benchmark/run.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/API" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/COPYING-MIT.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/CREDITS" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/INSTALL" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/RELEASE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/bin/base-package.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/bin/compactor.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/bin/compactor.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/bin/gendocs.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/bin/package.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/bin/package.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/bin/package_builder.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/build.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/config.doxy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/The_Beatles.rdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/at_a_glance.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/database_import.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/dbpedia.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/dirty_html.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/doc.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/doc.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/docx.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/docx_document.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/fetch_rss.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/html.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/matching_text_content.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/musicbrainz.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/odt.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/openoffice.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/out.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/parse_php.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/querypath.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/rss.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/simple_example.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/sparql.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/svg.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/techniques.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/test.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/testGrid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/examples/xml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/package.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/package_compatible.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/patches/QueryPath-RyanMahoney.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/pear-summary.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/phar/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/phar/basic_loader.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/quickstart-guide.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/DOMTraverser.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/DOMTraverser/PseudoClass.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/DOMTraverser/Util.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/EventHandler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/InputStream.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/NotImplementedException.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/ParseException.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/Parser.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/QueryPathEventHandler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/Scanner.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/Selector.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/SimpleSelector.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/Token.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/CSS/Traverser.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/DOMQuery.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/Entities.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/Exception.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/Extension.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/Extension/QPXML.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/Extension/QPXSL.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/ExtensionRegistry.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/IOException.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/Options.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/ParseException.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/Query.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/QueryPath/QueryPathIterator.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/documentation.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/qp.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/src/qp_functions.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/DOMTraverserTest.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/CSS/DOMTraverserTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/CSS/ParserTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/CSS/PseudoClassTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/CSS/QueryPathEventHandlerTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/CSS/SelectorTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/CSS/TokenTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/CSS/UtilTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/DOMQueryTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/EntitiesTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/ExtensionTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/Extensions/QPXMLTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/Extensions/QPXSLTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/OptionsTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/QueryPathTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/TestCase.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/Tests/QueryPath/XMLIshTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/advanced.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/amplify.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/coverage.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/data.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/data.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/html.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/no-writing.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/runTests.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/test/test.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/tutorials/Examples/Examples.pkg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/tutorials/QueryPath/QueryPath.pkg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/tutorials/QueryPath/QueryPath.pkg.ini" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/tutorials/QueryPath/css.pkg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/tutorials/QueryPath/css.pkg.ini" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/tutorials/QueryPath/cssexamples.pkg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/tutorials/QueryPath/csspseudo.pkg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/querypath/querypath/tutorials/Tests/Tests.pkg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/App/Providers/Fotocasa.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/App/Providers/Habitaclia.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/App/Providers/Idealista.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/App/Providers/Pisos.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/App/System/App.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/App/System/IProvider.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/App/System/Provider.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/App/System/Utils.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/test/DataTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/test/data/fotocasa.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/test/data/habitaclia.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/test/data/idealista.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/tetreum/xupopter/test/data/pisos.json" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="App.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/tetreum/xupopter/App/System/App.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-547">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-1359" />
+    <option name="width" value="2418" />
+    <option name="height" value="1292" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="extractor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fparareda\Documents\FP\php\extractor" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="734b42cb-d776-48a1-a3fa-f40ca04cc814" name="Default" comment="" />
+      <created>1517494399413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517494399413</updated>
+      <workItem from="1517494401322" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-1359" width="2418" height="1292" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24978651" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/tetreum/xupopter/App/System/App.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-547">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
